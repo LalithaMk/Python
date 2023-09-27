@@ -1,0 +1,3 @@
+hello user this is the git command checks
+log files also checkd by the compiler 
+need to modify
